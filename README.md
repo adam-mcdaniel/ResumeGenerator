@@ -1,4 +1,4 @@
-# Team Resume Generator
+# Resume Generator
 
 A cross platform and free resume generating tool.
 
